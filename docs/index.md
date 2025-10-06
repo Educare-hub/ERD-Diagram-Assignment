@@ -10,7 +10,7 @@ Each table includes proper foreign key relationships.
 The ERD diagram below visualizes the schema.
 
 ## 📊 Entity Relationship Diagram
-![ChartDB ERD](/ChartDB%20ERD.png)
+![ChartDB ERD](ChartDB_ERD.png.png)
 
 ## 💾 SQL Script
 See **ChartDB.sql** for the full database creation and data insertion script.
