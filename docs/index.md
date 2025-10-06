@@ -1,6 +1,6 @@
-# ERD Diagram Assignment
+# ğŸ“˜ ERD Diagram Assignment
 
-## í³˜ Overview
+## ğŸ§¾ Overview
 This project demonstrates a simple SQL database with three related tables:
 - **Users**
 - **ToDo**
@@ -9,10 +9,10 @@ This project demonstrates a simple SQL database with three related tables:
 Each table includes proper foreign key relationships.  
 The ERD diagram below visualizes the schema.
 
-## í·© Entity Relationship Diagram
-![ChartDB ERD](ChartDB_ERD.png)
+## ğŸ“Š Entity Relationship Diagram
+![ChartDB ERD](./ChartDB_ERD.png)
 
-## í·„ï¸ SQL Script
+## ğŸ’¾ SQL Script
 See **ChartDB.sql** for the full database creation and data insertion script.
 
 ---
