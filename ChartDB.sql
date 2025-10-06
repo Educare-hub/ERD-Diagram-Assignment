@@ -30,18 +30,18 @@ CREATE TABLE Comment (
 );
 
 INSERT INTO Users (name, email) VALUES
-('Alice', 'alice@mail.com'),
-('Brian', 'brian@mail.com'),
-('Cynthia', 'cynthia@mail.com'),
-('David', 'david@mail.com'),
-('Emily', 'emily@mail.com');
+('Mathew', 'mathew@gmail.com'),
+('Gikundi', 'gikundi@gmail.com'),
+('Tarrus', 'tarrus@yahoo.com'),
+('Eric', 'eric@gmail.com'),
+('Timon', 'timon@gmail.com');
 
 INSERT INTO ToDo (title, description, user_id) VALUES
-('Buy groceries', 'Get milk, eggs, bread', 1),
-('Finish assignment', 'ERD and SQL project', 2),
-('Clean the house', 'Sweep, mop, dust', 3),
-('Pay bills', 'Electricity and water', 1),
-('Plan trip', 'Book hotel and transport', 4);
+('Buy breakfast', 'Get milk, eggs, bread', 1),
+('Do assignment', 'ERD and SQL project', 2),
+('Perform daily activities', 'Sweep, mop, dust', 3),
+('Sort water bill', 'Electricity and water', 1),
+('Prepared for the vacation', 'Book hotel and transport', 4);
 
 INSERT INTO Comment (content, todo_id, user_id) VALUES
 ('Remember to buy fruits too', 1, 2),
